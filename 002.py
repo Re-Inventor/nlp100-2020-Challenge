@@ -1,0 +1,1 @@
+print("".join(["".join(chs) for chs in zip("パトカー", "タクシー")]))
